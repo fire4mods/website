@@ -1,48 +1,59 @@
-<?xml version="1.0" encoding="UTF-8"?> 
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
-<url>
-  <loc>https://www.firemods.online/</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-09-14</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/gold-and-glory</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-09-14</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/darkest-days</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-09-14</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/rp-grand</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-08-19</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/gta-5-mobile</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-09-04</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/newpipe</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-08-24</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/csr2-racing</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-08-20</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/madout2</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-09-02</lastmod>
-</url>
-<url>
-  <loc>https://www.firemods.online/apps/nova-ai</loc>
-  <changefreq>monthly</changefreq>
-  <lastmod>2025-08-17</lastmod>
-</url>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+    <loc>https://www.firemods.online/</loc>
+    <lastmod>2025-09-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Apps -->
+  <url>
+    <loc>https://www.firemods.online/apps/gta-5-mobile</loc>
+    <lastmod>2025-09-04</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/darkest-days</loc>
+    <lastmod>2025-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/gold-and-glory</loc>
+    <lastmod>2025-09-14</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/madout2</loc>
+    <lastmod>2025-09-02</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/csr2-racing</loc>
+    <lastmod>2025-08-20</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/newpipe</loc>
+    <lastmod>2025-08-24</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/rp-grand</loc>
+    <lastmod>2025-08-19</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.firemods.online/apps/nova-ai</loc>
+    <lastmod>2025-08-17</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
 </urlset>
