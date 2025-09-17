@@ -1,6 +1,0 @@
-User-agent: *
-Allow: /
-Disallow: /search/
-
-# Sitemap
-Sitemap: https://www.firemods.online/sitemap.xml
